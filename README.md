@@ -1,2 +1,3 @@
 # Romanian Dvorak Keyboard Layout
-Romanian Dvorak keyboard layout implementation. Proper diacritics included.
+
+## Dvorak keyboard layout implementation for Romanian with Proper diacritics.
