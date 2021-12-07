@@ -3,4 +3,4 @@ title: Romanian Dvorak Keyboard Layout
 description: Dvorak implementation for Romanian with proper diacritics.
 show_downloads: true
 github:
-  zip_url: https://github.com/thelightstain/romanian-dvorak-keyboard-layout/tree/main/dist/windows/ro-dv.zip
+  zip_url: https://github.com/thelightstain/romanian-dvorak-keyboard-layout/zipball/main/dist/windows/
