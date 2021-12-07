@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Romanian keyboards
+
+Keyboard layouts and even software that implement Romanian are even to this day problematic. It all started in te Windows XP era when the Romanian diacritics (ăĂ a breve, âÂ a circumflex, îÎ i circumflex, șȘ, țȚ - s,t *comma below*) were badly implemented using what was available, I am looking at you cedilla.
+
+## Romanian Dvorak
+
+This implementation is based on the simplified Dvorak keyboard layout and on Romanian Programmers layout. It uses the AltGr modifier to output the specific characters, the rest of the time is just like us Dvorak.
+
+
 
 You can use the [editor on GitHub](https://github.com/thelightstain/romanian-dvorak-keyboard-layout/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
