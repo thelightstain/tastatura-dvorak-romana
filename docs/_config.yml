@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Romanian Dvorak Keyboard Layout
 description: Dvorak implementation for Romanian with proper diacritics.
+show_downloads: true
