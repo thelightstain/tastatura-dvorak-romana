@@ -6,6 +6,8 @@ Keyboard layouts and even software that implement Romanian are even to this day 
 
 This implementation is based on the simplified Dvorak keyboard layout and on Romanian Programmers layout. It uses the AltGr modifier to output the specific characters, the rest of the time is just like us Dvorak.
 
+![Romanian Dvorak Layout](https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/ro-dv.png)
+
 
 
 You can use the [editor on GitHub](https://github.com/thelightstain/romanian-dvorak-keyboard-layout/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
