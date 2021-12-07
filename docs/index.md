@@ -1,3 +1,6 @@
+![Romanian Dvorak Layout](https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/romanian-dvorak.png)
+
+
 ## Romanian keyboards
 
 Keyboard layouts and even software that implement Romanian are even to this day problematic. It all started in te Windows XP era when the Romanian diacritics (ăĂ a breve, âÂ a circumflex, îÎ i circumflex, șȘ, țȚ - s,t *comma below*) were badly implemented using what was available, I am looking at you cedilla.
