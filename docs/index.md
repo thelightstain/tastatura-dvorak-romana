@@ -56,16 +56,17 @@ Of course, be my guest. I made this layout because I switched to Dvorak and I al
 
 Currently only Windows is supported. If there is a need for this layout to be ported to other OSes, I will happily do it for Linux and BSDs.
 
+<div>
+  <form action="https://www.paypal.com/donate" method="post" target="_top">
+  <input type="hidden" name="business" value="9NQ3C668RVAC4" />
+  <input type="hidden" name="no_recurring" value="0" />
+  <input type="hidden" name="item_name" value="So, you want to use the Romanian Dvorak Keyboard layout, huh? That makes two of us! Thanks for the coffee, much obliged." />
+  <input type="hidden" name="currency_code" value="EUR" />
+  <input type="image" src="https://pics.paypal.com/00/s/NjJjMjBjMTEtYzFiOC00YTk3LTgxNmMtMDZiMDBiMjMzZWFm/file.PNG" width="100" height="30" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+  <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+  </form>
+</div>
 Cheers,
 
 Radu
-
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="business" value="9NQ3C668RVAC4" />
-<input type="hidden" name="no_recurring" value="0" />
-<input type="hidden" name="item_name" value="So, you want to use the Romanian Dvorak Keyboard layout, huh? That makes two of us! Thanks for the coffee, much obliged." />
-<input type="hidden" name="currency_code" value="EUR" />
-<input type="image" src="https://pics.paypal.com/00/s/NjJjMjBjMTEtYzFiOC00YTk3LTgxNmMtMDZiMDBiMjMzZWFm/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
 
