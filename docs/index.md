@@ -37,7 +37,7 @@ This implementation is based on the simplified Dvorak keyboard layout and on Rom
 
 The layout has been created with [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) and validates the identically to the Romanian Programmers layout supplied with Windows.
 
-'''
+```
  WARNING: ^ (U+005e) is already defined more than once on the keyboard (on VK_6, ShiftState 'Shift' and VK_3, ShiftState 'Ctl+Alt').
     WARNING: The character ș (U+0219) exists in the entry for VK_S, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
     WARNING: The character Ș (U+0218) exists in the entry for VK_S, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
