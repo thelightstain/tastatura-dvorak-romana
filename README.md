@@ -4,4 +4,4 @@
 
 ![Romanian Dvorak Layout](https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/romanian-dvorak.png)
 
-### Find out more it the [documentation page](https://thelightstain.github.io/romanian-dvorak-keyboard-layout/).
+### Find out more in the [documentation page](https://thelightstain.github.io/romanian-dvorak-keyboard-layout/).
