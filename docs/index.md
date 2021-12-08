@@ -17,7 +17,7 @@ It all started in the Windows XP era when the Romanian diacritics
 
 ## Romanian Dvorak
 
-This implementation is based on the simplified Dvorak keyboard layout and on Romanian Programmers layout. It uses the `Alt+Ctrl (AltGr)` modifier to output the specific characters, the rest of the time is just like US Simplified Dvorak.
+This implementation is based on the simplified Dvorak keyboard layout and Romanian Programmers layout. It uses the `Alt+Ctrl (AltGr)` modifier to output the specific characters, the rest time behaving just like US Simplified Dvorak.
 
 ### Normal layout for Romanian Dvorak
 
@@ -35,30 +35,38 @@ This implementation is based on the simplified Dvorak keyboard layout and on Rom
 
 ![Romanian Dvorak shift altgr](https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/ro-dv-shift-altgr.png)
 
-The layout has been created with [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) and validates the identically to the Romanian Programmers layout supplied with Windows.
+The layout has been created with [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) and validates identically to the Romanian Programmers layout supplied with Windows.
 
-``` WARNING: ^ (U+005e) is already defined more than once on the keyboard (on VK_6, ShiftState 'Shift' and VK_3, ShiftState 'Ctl+Alt').
-    WARNING: The character ș (U+0219) exists in the entry for VK_S, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The character Ș (U+0218) exists in the entry for VK_S, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The character ț (U+021b) exists in the entry for VK_T, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The character Ț (U+021a) exists in the entry for VK_T, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: ` (U+0060) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Base' and VK_7, ShiftState 'Ctl+Alt').
-    WARNING: ~ (U+007e) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Shift' and VK_1, ShiftState 'Ctl+Alt').
-    WARNING: The dead key ^ (U+005e) when combined with e (U+0065) returns ê (U+00ea), but ê (U+00ea) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ^ (U+005e) when combined with u (U+0075) returns û (U+00fb), but û (U+00fb) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ^ (U+005e) when combined with E (U+0045) returns Ê (U+00ca), but Ê (U+00ca) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ^ (U+005e) when combined with U (U+0055) returns Û (U+00db), but Û (U+00db) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ` (U+0060) when combined with a (U+0061) returns à (U+00e0), but à (U+00e0) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ` (U+0060) when combined with e (U+0065) returns è (U+00e8), but è (U+00e8) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ` (U+0060) when combined with u (U+0075) returns ù (U+00f9), but ù (U+00f9) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ` (U+0060) when combined with i (U+0069) returns ì (U+00ec), but ì (U+00ec) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ` (U+0060) when combined with o (U+006f) returns ò (U+00f2), but ò (U+00f2) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ` (U+0060) when combined with A (U+0041) returns À (U+00c0), but À (U+00c0) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ` (U+0060) when combined with E (U+0045) returns È (U+00c8), but È (U+00c8) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ` (U+0060) when combined with U (U+0055) returns Ù (U+00d9), but Ù (U+00d9) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ` (U+0060) when combined with I (U+0049) returns Ì (U+00cc), but Ì (U+00cc) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ` (U+0060) when combined with O (U+004f) returns Ò (U+00d2), but Ò (U+00d2) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ¨ (U+00a8) when combined with i (U+0069) returns ï (U+00ef), but ï (U+00ef) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ¨ (U+00a8) when combined with y (U+0079) returns ÿ (U+00ff), but ÿ (U+00ff) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ¨ (U+00a8) when combined with I (U+0049) returns Ï (U+00cf), but Ï (U+00cf) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
-    WARNING: The dead key ¨ (U+00a8) when combined with Y (U+0059) returns Ÿ (U+0178), but Ÿ (U+0178) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.```
+One important thing to notice is the placement of âÂ. On Romanian programmers it was mapped to `AltGR+q`. In Romanian Dvorak I mapped âÂ to `AltGr+o` for the following reasons:
+
+ 1. Keep it on the home row (q is less reachable than e on Dvorak)
+ 2. Ââ is a vowel and it should be on home row, on the left hand side
+ 3. o is next to a in Dvorak just as q was next to a in QWERTY
+ 3. In Romanian O does not have diacritics.
+
+### Romanian Dvorak home row normal mode and with `AltGr` modifier
+
+![Romanian Dvorak home row](https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/romanian-dvorak-altgr-homerow.png)
+
+## Can I use this layout?
+
+Of course, be my guest. I made this layout because I switched to Dvorak and I also need to write in Romanian. I am sharing it with you for free. If it helps you in anyway, don't hesitate to buy me a coffee (button below).
+
+## What's next?
+
+Currently only Windows is supported. I there is the need for this layout to be ported to other OSes I will happily do it for Linux and BSDs.
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="business" value="9NQ3C668RVAC4" />
+<input type="hidden" name="no_recurring" value="0" />
+<input type="hidden" name="item_name" value="So, you want to use the Romanian Dvorak Keyboard layout, huh? That makes to of us!
+
+Thanks for the coffee, much obliged." />
+<input type="hidden" name="currency_code" value="EUR" />
+<input type="image" src="https://pics.paypal.com/00/s/NzljNjZhODYtYzkyMC00YTU4LTkwYmItN2MzM2JkZTU1YzI3/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+Cheers,
+
+Radu
