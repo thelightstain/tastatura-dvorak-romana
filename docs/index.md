@@ -61,7 +61,7 @@ Currently only Windows is supported. If there is a need for this layout to be po
   <input type="hidden" name="no_recurring" value="0" />
   <input type="hidden" name="item_name" value="So, you want to use the Romanian Dvorak Keyboard layout, huh? That makes two of us! Thanks for the coffee, much obliged." />
   <input type="hidden" name="currency_code" value="EUR" />
-  <input type="image" src="https://pics.paypal.com/00/s/NjJjMjBjMTEtYzFiOC00YTk3LTgxNmMtMDZiMDBiMjMzZWFm/file.PNG" width="100" height="30" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+  <input type="image" src="https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/buy-me-a-coffee.png" width="100" height="30" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
   <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
   </form>
 Cheers,
