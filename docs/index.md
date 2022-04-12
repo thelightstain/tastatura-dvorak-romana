@@ -37,7 +37,7 @@ This implementation is based on the simplified Dvorak keyboard layout and Romani
 
 The layout has been created with [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) and validates identically to the Romanian Programmers layout supplied with Windows.
 
-One important thing to notice is the placement of âÂ. On Romanian programmers it was mapped to `AltGR+q`. In Romanian Dvorak I mapped âÂ to `AltGr+o` for the following reasons:
+One important thing to notice is the placement of âÂ. On Romanian programmers it was mapped to `AltGr+q`. In Romanian Dvorak I mapped âÂ to `AltGr+o` for the following reasons:
 
  1. Keep it on the home row (q is less reachable than e on Dvorak)
  2. Ââ is a vowel and it should be on home row, on the left hand side
@@ -54,7 +54,7 @@ Of course, be my guest. I made this layout because I switched to Dvorak and I al
 
 ## What's next?
 
-Currently only Windows is supported. If there is a need for this layout to be ported to other OSes, I will happily do it for Linux and BSDs.
+Currently only Windows is supported. If there is a need for this layout to be ported to other operating systems, I will happily do it for Linux and BSDs.
 
   <form id="paypal_button" action="https://www.paypal.com/donate" method="post" target="_top">
   <input type="hidden" name="business" value="9NQ3C668RVAC4" />
@@ -66,5 +66,5 @@ Currently only Windows is supported. If there is a need for this layout to be po
   </form>
 Cheers,
 
-Radu
+*Radu*
 
