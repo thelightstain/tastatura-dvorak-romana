@@ -66,7 +66,7 @@ Pentru moment numai sistemul de operare Windows este suportat. Dacă ai nevoie d
   <input type="hidden" name="business" value="9NQ3C668RVAC4" />
   <input type="hidden" name="no_recurring" value="0" />
   <input type="hidden" name="item_name" value="Deci îți place tastatura Dvorak? Și mie, măcar suntem doi. Mulțumesc pentru cafea!" />
-  <input type="hidden" name="currency_code" value="RON" />
+  <input type="hidden" name="currency_code" value="EUR" />
   <input type="image" src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/buy-me-a-coffee.png" width="100" height="30" border="0" name="submit" title="PayPal - modul sigur și ușor de a plăti online!" alt="Donează cu butonul PayPal" />
   <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
   </form>
