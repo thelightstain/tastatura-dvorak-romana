@@ -22,7 +22,7 @@ Totul a început în era Windows XP când diacriticele românești:
 
 ## Dvorak pentru limba română
 
-Această implementare este bazată pe aranjamentul tastaurii Dvorak simplificat și cel al tastaturii în limba română pentru programatori. Folosește modificatorul `Alt+Ctrl (AltGr)` pentru a produce caracterele specifice limbii române, în restul timpului comportându-se exact ca tastatura simplificată Dvorak americană.
+Această implementare este bazată pe aranjamentul tastaturii Dvorak simplificat și cel al tastaturii în limba română pentru programatori. Folosește modificatorul `Alt+Ctrl (AltGr)` pentru a produce caracterele specifice limbii române, în restul timpului comportându-se exact ca tastatura simplificată Dvorak americană.
 
 ### Aranjamentul normal al tastaturii Dvorak pentru limba română
 
