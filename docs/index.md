@@ -11,7 +11,7 @@ Dacă te dor degetele după sesiuni mai lungi de tastare, se poate să fie din u
 ## Tastaturile pentru limba română
 
 Implementarea corectă a limbii române pentru tastaturi și software este încă problematică. În 2021 în România a fost lansata bancnota de 20 RON cu Ecaterina Teodoroiu. Ghicește ce e pe ea. Hai că îți spun eu: diacritice greșite.
-<img src="https://www.bnr.ro/files/sig/20/20.jpg" alt="Bancnota de 20 RON emisă în 2021 de BNR>
+<img src="https://www.bnr.ro/files/sig/20/20.jpg" alt="Bancnota de 20 RON emisă în 2021 de BNR">
 
 __Bancnota de *DOUǍZECI* de RON, imagine preluată de pe pagina BNR__
 
