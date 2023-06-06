@@ -4,17 +4,22 @@
 @import "{{ site.theme }}";
 
 body {
-  color: #1e1e21;
+  color: #1a1a1f;
   background: #f0f0f0;
 }
 
 #main_content_wrap {
-  color: #1e1e21;
+  color: #1a1a1f;
   background: #f0f0f0;
 }
 
 #forkme_banner {
   background-color: rgb(255, 125, 25);
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
 }
 
 img {
