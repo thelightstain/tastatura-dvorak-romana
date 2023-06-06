@@ -60,7 +60,7 @@ Da, chiar te rog. Am creat această implementare deoarece am trecut la Dvorak ș
 
 ## Ce urmează?
 
-Pentru moment numai sistemul de operare Windows este suportat. Dacă ai nevoie de tastatura Dvorak în română pe alte sisteme de operare aș putea face implementarea cu mare plăcere pentru Linux sa familia BSD.
+Pentru moment numai sistemul de operare Windows este suportat. Dacă ai nevoie de tastatura Dvorak în română pe alte sisteme de operare aș putea face implementarea cu mare plăcere pentru Linux sau familia BSD.
 
   <form id="paypal_button" action="https://www.paypal.com/donate" method="post" target="_top">
   <input type="hidden" name="business" value="9NQ3C668RVAC4" />
