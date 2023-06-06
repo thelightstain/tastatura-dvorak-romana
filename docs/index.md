@@ -4,7 +4,7 @@
 
 Dacă te dor degetele după sesiuni mai lungi de tastare, se poate să fie din următoarele motive:
 - ai mâini mici (aia e, nu prea ai ce să faci)
-- ai tehnică proastă de tastat (era și cazul meu, nu am făcut niciun curs)
+- ai tehnică proastă de tastat (și eu, nu am făcut niciun curs)
 - aranjamentul QWERTY nu este optim pentru tine
 
 În cazul meu primele două se aplicau cu siguranță. Al treilea se numește masochism.
