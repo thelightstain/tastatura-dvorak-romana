@@ -11,9 +11,9 @@ Dacă te dor degetele după sesiuni mai lungi de tastare, se poate să fie din u
 
 ## Tastaturile pentru limba română
 
-Împlementarea corectă a limbii române pentru tastaturi și software este încă problematică. În 2021 în România a fost lansata bancnota de 20 RON cu Ecaterina Teodoroiu. Ghicește ce e pe ea. Hai că îți spun eu: diacritice greșite.
+Implementarea corectă a limbii române pentru tastaturi și software este încă problematică. În 2021 în România a fost lansata bancnota de 20 RON cu Ecaterina Teodoroiu. Ghicește ce e pe ea. Hai că îți spun eu: diacritice greșite.
 
-Totul a început în era Windows XP când diacriticele românești
+Totul a început în era Windows XP când diacriticele românești:
  - ăĂ (a cu căciulă), 
  - âÂ (a cu accent circumflex), 
  - îÎ (i cu accent circumflex), 
@@ -23,7 +23,7 @@ Totul a început în era Windows XP când diacriticele românești
 
 ## Dvorak pentru limba română
 
-Această implementare este bazată pe aranjamentul tastaurii Dvorak simplificată și cel al tastaturii în limba română pentru programatori. Folosește modificatorul `Alt+Ctrl (AltGr)` pentru a produce caracterele specifice limbi române, în restul timpului comportându-se exact ca tastatura simplificată Dvorak americană.
+Această implementare este bazată pe aranjamentul tastaurii Dvorak simplificat și cel al tastaturii în limba română pentru programatori. Folosește modificatorul `Alt+Ctrl (AltGr)` pentru a produce caracterele specifice limbii române, în restul timpului comportându-se exact ca tastatura simplificată Dvorak americană.
 
 ### Aranjamentul normal al tastaturii Dvorak pentru limba română
 
@@ -41,26 +41,26 @@ Această implementare este bazată pe aranjamentul tastaurii Dvorak simplificat�
 
 ![Romanian Dvorak shift altgr](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift-altgr.png)
 
-Aranjamentul a fost creat folosind [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) și se validează identic cu aranjamentul tastaturii în română pentru programatori livrat împreună cu Windows.
+Aranjamentul a fost creat folosind [Microsoft Keyboard Layout Creator (MSKLC) v1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) și se validează identic cu aranjamentul tastaturii în română pentru programatori livrat împreună cu Windows.
 
-Important de observat este plasarea literei âÂ. Pe tastatura în română pentru programatori, această literă se obține prin apăsarea simultană a tastelor `AltGr+q`. În implementarea Dvorak pentru limba română, âÂ se obțin prin apăsarea combinației `AltGr+o`din următoarele motive:
+Importantă de observat este plasarea literei âÂ. Pe tastatura în română pentru programatori, această literă se obține prin apăsarea simultană a tastelor `AltGr+q`. În implementarea Dvorak pentru limba română, âÂ se obține prin apăsarea combinației `AltGr+o`din următoarele motive:
 
  1. Păstrarea literei pe rândul principal (qQ este mai greu de tastat decât eE pe Dvorak)
  2. Ââ este o vocală și trebuie să se afle pe rândul principal în partea stângă împreună cu celelalte vocale
  3. oO se află lângă aA în Dvorak la fel cum qQ este lângă aA pe QWERTY
  3. În limba romănă oO nu are diacritice.
 
-### Rândul principal al tastaturii Dvorak pentru romănă cu modificatorul `AltGr`
+### Rândul principal al tastaturii Dvorak pentru română cu modificatorul `AltGr`
 
 ![Romanian Dvorak home row](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/romanian-dvorak-altgr-homerow.png)
 
 ## Pot descărca și folosi acest aranjament?
 
-Da, chiar te rog. Am creat această implementare deoarece am trecut la Dvorak și aveam nevoie să scriu în limba română (cu tot cu diacritice). Îl poți descărca gratuit. Dacă te ajută în vreun fel, nu ezita să dai o cafea (vezi butonul de mai jos).
+Desigur, chiar te rog. Am creat această implementare deoarece am trecut la Dvorak și aveam nevoie să scriu în limba română (cu tot cu diacritice). Îl poți descărca gratuit. Dacă te ajută în vreun fel, nu ezita să dai o cafea (vezi butonul de mai jos).
 
 ## Ce urmează?
 
-Pentru moment numai sistemul de operare Windows este suportat. Dacă ai nevoie de tastatura Dvorak în română pe alte sisteme de operare aș putea face implementarea cu mare plăcere pentru Linux sau familia BSD.
+Pentru moment numai sistemul de operare Windows este suportat. Dacă ai nevoie de tastatura Dvorak în română pe alte sisteme de operare pot face la cerere implementarea pentru Linux sau familia BSD.
 
   <form id="paypal_button" action="https://www.paypal.com/donate" method="post" target="_top">
   <input type="hidden" name="business" value="9NQ3C668RVAC4" />
