@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/romanian-dvorak.png" width="640" height="170" alt="Aranjamentul tastaturii Dvorak pentru limba română.")
+<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/romanian-dvorak.png" width="640" height="170" alt="Aranjamentul tastaturii Dvorak pentru limba română.">
 
 Dacă te dor degetele după sesiuni mai lungi de tastare, se poate să fie din următoarele motive:
 - ai mâini mici (aia e, nu prea ai ce să faci)
