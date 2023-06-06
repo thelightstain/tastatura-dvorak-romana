@@ -37,7 +37,8 @@ Această implementare este bazată pe aranjamentul tastaurii Dvorak simplificat 
 <img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-altgr.png" width="692" height="184" alt="Tastatura Dvorak în română cu tasta AltGR apăsată">
 
 ### Tastatura Dvorak în română cu `Shift+AltGr` apăsate
-<imp src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift-altgr.png" width="692" height="184" alt="Tastatura Dvorak în română cu tastele Shift și AltGR apăsate">
+
+<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift-altgr.png" width="692" height="184" alt="Tastatura Dvorak în română cu tastele Shift și AltGR apăsate">
 
 Aranjamentul a fost creat folosind [Microsoft Keyboard Layout Creator (MSKLC) v1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) și se validează identic cu aranjamentul tastaturii în română pentru programatori livrat împreună cu Windows.
 
