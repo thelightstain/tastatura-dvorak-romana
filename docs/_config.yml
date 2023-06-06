@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Tastatura Dvorak pentru limba română
-description: Implementare Dovark cu diacritice corecte.
+description: Implementare Dvorak cu diacritice corecte.
 show_downloads: true
 site.github.zip_url: https://github.com/thelightstain/tastatura-dvorak-romana/dist/windows
 site.lang: ro
