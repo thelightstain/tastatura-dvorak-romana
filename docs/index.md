@@ -27,19 +27,18 @@ Această implementare este bazată pe aranjamentul tastaurii Dvorak simplificat 
 
 ### Aranjamentul normal al tastaturii Dvorak pentru limba română
 
-![Romanian Dvorak normal](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv.png)
+<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv.png" width="640" height="170" alt="Tastatură normală Dvorak în română">
 
 ### Tastatura Dvorak pentru română cu tasta `Shift` apăsată
 
-![Romanian Dvorak shift](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift.png)
+<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift.png" width="640" height="170" alt="Tastatura Dvorak în română cu tasta Shift apăsată">
 
 ### Tastatura Dvorak în română cu tasta (sau combinația) `AltGr` apăsată
 
-![Romanian Dvorak altgr](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-altgr.png)
+<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-altgr.png" width="640" height="170" alt="Tastatura Dvorak în română cu tasta AltGR apăsată">
 
 ### Tastatura Dvorak în română cu `Shift+AltGr` apăsate
-
-![Romanian Dvorak shift altgr](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift-altgr.png)
+<imp src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift-altgr.png" width="640" height="170" alt="Tastatura Dvorak în română cu tastele Shift și AltGR apăsate")
 
 Aranjamentul a fost creat folosind [Microsoft Keyboard Layout Creator (MSKLC) v1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) și se validează identic cu aranjamentul tastaturii în română pentru programatori livrat împreună cu Windows.
 
@@ -51,8 +50,8 @@ Importantă de observat este plasarea literei âÂ. Pe tastatura în română pe
  3. În limba romănă oO nu are diacritice.
 
 ### Rândul principal al tastaturii Dvorak pentru română cu modificatorul `AltGr`
-
-![Romanian Dvorak home row](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/romanian-dvorak-altgr-homerow.png)
+     
+<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/romanian-dvorak-altgr-homerow.png" width="640" height="70" alt="Rândul principal al tastaturii Dvorak pentru limba română cu modificatorul AltGr apăsat">
 
 ## Pot descărca și folosi acest aranjament?
 
