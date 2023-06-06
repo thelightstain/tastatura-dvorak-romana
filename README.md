@@ -1,7 +1,7 @@
-# Romanian Dvorak Keyboard Layout
+# Tastatură Dvorak pentru limba română
 
-## Dvorak keyboard layout implementation for Romanian with proper diacritics.
+## Implementare cu diacritice corecte.
 
-![Romanian Dvorak Layout](https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/romanian-dvorak.png)
+![Romanian Dvorak Layout](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/romanian-dvorak.png)
 
-### Find out more in the [documentation page](https://thelightstain.github.io/romanian-dvorak-keyboard-layout/).
+### Afllă mai multe în [documentație](https://thelightstain.github.io/tastatura-dvorak-romana/).
