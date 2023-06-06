@@ -1,70 +1,76 @@
 
 
-![Romanian Dvorak Layout](https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/romanian-dvorak.png)
+![Romanian Dvorak Layout](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/romanian-dvorak.png)
 
+Dacă te dor degetele după sesiuni mai lungi de tastare, se poate să fie din următoarele motive:
+- ai mâini mici (aia e, nu prea ai ce să faci)
+- ai tehnică proastă de tastat (era și cazul meu, nu am făcut niciun curs)
+- aranjamentul QWERTY nu este optim pentru tine
 
-## Romanian keyboards
+În cazul meu primele două se aplicau cu siguranță. Al treilea se numește masochism.
 
-Keyboard layouts and software that implement Romanian are still problematic. A new bancnote was released in 2021 in Romania and guess what? Wrong diacritics!
+## Tastaturile pentru limba română
 
-It all started in the Windows XP era when the Romanian diacritics 
- - ăĂ (a breve), 
- - âÂ (a circumflex), 
- - îÎ (i circumflex), 
- - șȘ (s *comma below*), 
- - țȚ (t *comma below*) 
- were badly implemented using what was available, I am looking at you, çedilla.
+Împlementarea corectă a limbii române pentru tastaturi și software este încă problematică. În 2021 în România a fost lansata bancnota de 20 RON cu Ecaterina Teodoroiu. Ghicește ce e pe ea. Hai că îți spun eu: diacritice greșite.
 
-## Romanian Dvorak
+Totul a început în era Windows XP când diacriticele românești
+ - ăĂ (a cu căciulă), 
+ - âÂ (a cu accent circumflex), 
+ - îÎ (i cu accent circumflex), 
+ - șȘ (s *virgulă dedesubt*), 
+ - țȚ (t *virgulă dedesubt*) 
+ au fost implementate incorect, folosind ce era deja disponibil. Da, çedilă despre tine e vorba, știu că se scrie sedilă.
 
-This implementation is based on the simplified Dvorak keyboard layout and Romanian Programmers layout. It uses the `Alt+Ctrl (AltGr)` modifier to output the specific characters, the rest time behaving just like US Simplified Dvorak.
+## Dvorak pentru limba română
 
-### Normal layout for Romanian Dvorak
+Această implementare este bazată pe aranjamentul tastaurii Dvorak simplificată și cel al tastaturii în limba română pentru programatori. Folosește modificatorul `Alt+Ctrl (AltGr)` pentru a produce caracterele specifice limbi române, în restul timpului comportându-se exact ca tastatura simplificată Dvorak americană.
 
-![Romanian Dvorak normal](https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/ro-dv.png)
+### Aranjamentul normal al tastaturii Dvorak pentru limba română
 
-### Romanian Dvorak with `Shift` key pressed
+![Romanian Dvorak normal](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv.png)
 
-![Romanian Dvorak shift](https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/ro-dv-shift.png)
+### Tastatura Dvorak pentru română cu tasta `Shift` apăsată
 
-### Romanian Dvorak with `AltGr` pressed
+![Romanian Dvorak shift](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift.png)
 
-![Romanian Dvorak altgr](https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/ro-dv-altgr.png)
+### Tastatura Dvorak în română cu tasta (sau combinația) `AltGr` apăsată
 
-### Romanian Dvorak with `Shift+AltGr` pressed
+![Romanian Dvorak altgr](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-altgr.png)
 
-![Romanian Dvorak shift altgr](https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/ro-dv-shift-altgr.png)
+### Tastatura Dvorak în română cu `Shift+AltGr` apăsate
 
-The layout has been created with [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) and validates identically to the Romanian Programmers layout supplied with Windows.
+![Romanian Dvorak shift altgr](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift-altgr.png)
 
-One important thing to notice is the placement of âÂ. On Romanian programmers it was mapped to `AltGr+q`. In Romanian Dvorak I mapped âÂ to `AltGr+o` for the following reasons:
+Aranjamentul a fost creat folosind [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) și se validează identic cu aranjamentul tastaturii în română pentru programatori livrat împreună cu Windows.
 
- 1. Keep it on the home row (q is less reachable than e on Dvorak)
- 2. Ââ is a vowel and it should be on home row, on the left hand side
- 3. o is next to a in Dvorak just as q was next to a in QWERTY
- 3. In Romanian O does not have diacritics.
+Important de observat este plasarea literei âÂ. Pe tastatura în română pentru programatori, această literă se obține prin apăsarea simultană a tastelor `AltGr+q`. În implementarea Dvorak pentru limba română, âÂ se obțin prin apăsarea combinației `AltGr+o`din următoarele motive:
 
-### Romanian Dvorak home row normal mode and with `AltGr` modifier
+ 1. Păstrarea literei pe rândul principal (qQ este mai greu de tastat decât eE pe Dvorak)
+ 2. Ââ este o vocală și trebuie să se afle pe rândul principal în partea stângă împreună cu celelalte vocale
+ 3. oO se află lângă aA în Dvorak la fel cum qQ este lângă aA pe QWERTY
+ 3. În limba romănă oO nu are diacritice.
 
-![Romanian Dvorak home row](https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/romanian-dvorak-altgr-homerow.png)
+### Rândul principal al tastaturii Dvorak pentru romănă cu modificatorul `AltGr`
 
-## Can I use this layout?
+![Romanian Dvorak home row](https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/romanian-dvorak-altgr-homerow.png)
 
-Of course, be my guest. I made this layout because I switched to Dvorak and I also need to write in Romanian. I am sharing it with you for free. If it helps you in anyway, don't hesitate to buy me a coffee (button below).
+## Pot descărca și folosi acest aranjament?
 
-## What's next?
+Da, chiar te rog. Am creat această implementare deoarece am trecut la Dvorak și aveam nevoie să scriu în limba română (cu tot cu diacritice). Îl poți descărca gratuit. Dacă te ajută în vreun fel, nu ezita să dai o cafea (vezi butonul de mai jos).
 
-Currently only Windows is supported. If there is a need for this layout to be ported to other operating systems, I will happily do it for Linux and BSDs.
+## Ce urmează?
+
+Pentru moment numai sistemul de operare Windows este suportat. Dacă ai nevoie de tastatura Dvorak în română pe alte sisteme de operare aș putea face implementarea cu mare plăcere pentru Linux sa familia BSD.
 
   <form id="paypal_button" action="https://www.paypal.com/donate" method="post" target="_top">
   <input type="hidden" name="business" value="9NQ3C668RVAC4" />
   <input type="hidden" name="no_recurring" value="0" />
-  <input type="hidden" name="item_name" value="So, you want to use the Romanian Dvorak Keyboard layout, huh? That makes two of us! Thanks for the coffee, much obliged." />
-  <input type="hidden" name="currency_code" value="EUR" />
-  <input type="image" src="https://raw.githubusercontent.com/thelightstain/romanian-dvorak-keyboard-layout/main/docs/assets/images/buy-me-a-coffee.png" width="100" height="30" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+  <input type="hidden" name="item_name" value="Deci îți place tastatura Dvorak? Și mie, măcar suntem doi. Mulțumesc pentru cafea!" />
+  <input type="hidden" name="currency_code" value="RON" />
+  <input type="image" src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/buy-me-a-coffee.png" width="100" height="30" border="0" name="submit" title="PayPal - modul sigur și ușor de a plăti online!" alt="Donează cu butonul PayPal" />
   <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
   </form>
-Cheers,
+Noroc,
 
 *Radu*
 
