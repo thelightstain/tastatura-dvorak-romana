@@ -10,19 +10,14 @@ Dacă te dor degetele după sesiuni mai lungi de tastare, se poate să fie din u
 
 ## Tastaturile pentru limba română
 
-Implementarea corectă a limbii române pentru tastaturi și software este încă problematică. În 2021 în România a fost lansata bancnota de 20 de lei cu Ecaterina Teodoroiu. Ghicește ce e pe ea. Hai că îți spun eu: diacritice greșite.
-
-<img src="https://www.bnr.ro/files/sig/20/20.jpg" alt="Bancnota de 20 LEI emisă în 2021 de BNR">
-
-*Bancnota de __DOUǍZECI__ de RON, imagine preluată de pe [pagina BNR](https://www.bnr.ro/20-de-lei---Ecaterina-Teodoroiu-23452-Mobile.aspx)*
-
+Implementarea corectă a limbii române pentru tastaturi și software este încă problematică. În 2021 în România a fost lansata bancnota de __DOUǍZECI__ de lei cu Ecaterina Teodoroiu. Ghicește ce e pe ea. Hai că îți spun eu: diacritice greșite.
 
 Totul a început în era Windows XP când diacriticele românești:
  - ăĂ (a cu căciulă), 
  - âÂ (a cu accent circumflex), 
  - îÎ (i cu accent circumflex), 
- - șȘ (s *virgulă dedesubt*), 
- - țȚ (t *virgulă dedesubt*) 
+ - șȘ (s cu *virgulă dedesubt*), 
+ - țȚ (t cu *virgulă dedesubt*) 
  au fost implementate incorect, folosind ce era deja disponibil. Da, çedilă despre tine e vorba, știu că se scrie sedilă.
 
 ## Dvorak pentru limba română
@@ -31,19 +26,19 @@ Această implementare este bazată pe aranjamentul tastaturii Dvorak simplificat
 
 ### Aranjamentul normal al tastaturii Dvorak pentru limba română
 
-<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv.png" alt="Tastatură normală Dvorak în română">
+<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv.png" alt="Tastatură normală Dvorak în română" width="692" height="184" >
 
 ### Tastatura Dvorak pentru română cu tasta `Shift` apăsată
 
-<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift.png" alt="Tastatura Dvorak în română cu tasta Shift apăsată">
+<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift.png" alt="Tastatura Dvorak în română cu tasta Shift apăsată" width="692" height="184">
 
 ### Tastatura Dvorak în română cu tasta (sau combinația) `AltGr` apăsată
 
-<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-altgr.png" alt="Tastatura Dvorak în română cu tasta AltGR apăsată">
+<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-altgr.png" alt="Tastatura Dvorak în română cu tasta AltGR apăsată" width="692" height="184">
 
 ### Tastatura Dvorak în română cu `Shift+AltGr` apăsate
 
-<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift-altgr.png" alt="Tastatura Dvorak în română cu tastele Shift și AltGR apăsate">
+<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/ro-dv-shift-altgr.png" alt="Tastatura Dvorak în română cu tastele Shift și AltGR apăsate" width="692" height="184">
 
 Aranjamentul a fost creat folosind [Microsoft Keyboard Layout Creator (MSKLC) v1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) și se validează identic cu aranjamentul tastaturii în română pentru programatori livrat împreună cu Windows.
 
@@ -56,7 +51,7 @@ Importantă de observat este plasarea literei âÂ. Pe tastatura în română pe
 
 ### Rândul principal al tastaturii Dvorak pentru română cu modificatorul `AltGr`
      
-<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/romanian-dvorak-altgr-homerow.png" alt="Rândul principal al tastaturii Dvorak pentru limba română cu modificatorul AltGr apăsat">
+<img src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/romanian-dvorak-altgr-homerow.png" alt="Rândul principal al tastaturii Dvorak pentru limba română cu modificatorul AltGr apăsat" width="692" height="76">
 
 ## Pot descărca și folosi acest aranjament?
 
