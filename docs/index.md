@@ -14,7 +14,7 @@ Implementarea corectă a limbii române pentru tastaturi și software este înc�
 
 <img src="https://www.bnr.ro/files/sig/20/20.jpg" alt="Bancnota de 20 LEI emisă în 2021 de BNR">
 
-*Bancnota de __DOUǍZECI__ de RON, imagine preluată de pe pagina BNR*
+*Bancnota de __DOUǍZECI__ de RON, imagine preluată de pe [pagina BNR](https://www.bnr.ro/20-de-lei---Ecaterina-Teodoroiu-23452-Mobile.aspx)*
 
 
 Totul a început în era Windows XP când diacriticele românești:
