@@ -6,19 +6,21 @@ Dacă te dor degetele după sesiuni mai lungi de tastare, se poate să fie din u
 - ai tehnică proastă de tastat (și eu, nu am făcut niciun curs)
 - aranjamentul QWERTY nu este optim pentru tine
 
-În cazul meu primele două se aplicau cu siguranță. Al treilea se numește masochism.
+În cazul meu primele două se aplicau cu siguranță. Al treilea este masochism.
 
 ## Tastaturile pentru limba română
 
-Implementarea corectă a limbii române pentru tastaturi și software este încă problematică. În 2021 în România a fost lansata bancnota de __DOUǍZECI__ de lei cu Ecaterina Teodoroiu. Ghicește ce e pe ea. Hai că îți spun eu: diacritice greșite.
+Implementarea corectă a limbii române pentru tastaturi și software este încă problematică. În 2021, în România a fost lansată bancnota de __DOUǍZECI__ de lei cu Ecaterina Teodoroiu. Ghicește ce e pe ea. Hai că îți spun eu: diacritice greșite.
 
 Totul a început în era Windows XP când diacriticele românești:
+
  - ăĂ (a cu căciulă), 
  - âÂ (a cu accent circumflex), 
  - îÎ (i cu accent circumflex), 
  - șȘ (s cu *virgulă dedesubt*), 
  - țȚ (t cu *virgulă dedesubt*) 
- au fost implementate incorect, folosind ce era deja disponibil. Da, çedilă despre tine e vorba, știu că se scrie sedilă.
+
+au fost implementate incorect, folosind ce era deja disponibil. Da, çedilă despre tine e vorba, știu că se scrie sedilă.
 
 ## Dvorak pentru limba română
 
@@ -69,6 +71,7 @@ Pentru moment numai sistemul de operare Windows este suportat. Dacă ai nevoie d
   <input type="image" src="https://raw.githubusercontent.com/thelightstain/tastatura-dvorak-romana/main/docs/assets/images/buy-me-a-coffee.png" width="100" height="30" border="0" name="submit" title="PayPal - modul sigur și ușor de a plăti online!" alt="Donează cu butonul PayPal" />
   <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
   </form>
+
 Noroc,
 
 *Radu*
